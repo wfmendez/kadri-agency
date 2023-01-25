@@ -6,14 +6,9 @@ Fonts are separated by a & */
 
 :root {
     /* change the values below to your colors from your palette */
-    --primary-color: #9830E2;
-    --dark-primary-color: #5C148F;
-    --light-primary-color: #C182ED;
-    --secondary-color: #00C0B0;
-    --dark-secondary-color: #00a396;
-    --light-secondary-color: #00a396;
+    --primary-color: #6444bd;
+    --secondary-color: #1bd6c2;
     --accent1-color: #002D47;
-    --light-accent1-color: #004e7a;
 
     /* change the values below to your chosen font(s) */
     --heading-font: "COCOGOOSE";
